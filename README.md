@@ -22,3 +22,4 @@ Example Flask application.
 # How run the tests?
     
     nosetests
+#My name is Sievny
